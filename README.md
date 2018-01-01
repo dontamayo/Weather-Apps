@@ -2,7 +2,7 @@
 
 1. Asynchronous node.js
 2.  CallStack and Event Loop
-. .* setTimeout functions
+. . 1 setTimeout functions
 3.  Callback Functions and API
-. .* using googleapis
-. .* NPM request
+. . 1 using googleapis
+. . 2 NPM request
