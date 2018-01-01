@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "1. Asynchronous node.js 2.  CallStack and Event Loop ...* setTimeout functions 3.  Callback Functions and API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webbydon29/Weather-Apps.git"
+  },
+  "author": "don",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbydon29/Weather-Apps/issues"
+  },
+  "homepage": "https://github.com/webbydon29/Weather-Apps#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
