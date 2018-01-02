@@ -20,3 +20,7 @@
 6. Encoding User Input
 * added npm yargs
 * encode and decode
+
+7. Callback errors
+* putting conditional statement when error prompt.
+* instead of the command crushing, we get a message 'unable to get the address.'
