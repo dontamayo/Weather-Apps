@@ -25,4 +25,9 @@
 * putting conditional statement when error prompt.
 * instead of the command crushing, we get a message 'unable to get the address.'
 
-8. callback abstraction
+8. Abstracting Callbacks
+
+9. Wiring up Weather Search
+* requesting for API
+* what weather data we get back when we passed longitude and Latitude
+* API resource https://darksky.net/dev
