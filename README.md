@@ -24,3 +24,5 @@
 7. Callback errors
 * putting conditional statement when error prompt.
 * instead of the command crushing, we get a message 'unable to get the address.'
+
+8. callback abstraction
