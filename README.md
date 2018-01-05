@@ -31,3 +31,5 @@
 * requesting for API
 * what weather data we get back when we passed longitude and Latitude
 * API resource https://darksky.net/dev
+
+10. Chaining Callbacks Together
