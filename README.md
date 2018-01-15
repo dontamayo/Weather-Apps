@@ -33,4 +33,7 @@
 * API resource https://darksky.net/dev
 
 10. Chaining Callbacks Together
-11. ES6 and Promises 
+11. ES6 and Promises
+12. Advanced Promises
+13. weather app with promises
+* using axios library
