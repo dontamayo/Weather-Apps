@@ -33,3 +33,4 @@
 * API resource https://darksky.net/dev
 
 10. Chaining Callbacks Together
+11. ES6 and Promises 
