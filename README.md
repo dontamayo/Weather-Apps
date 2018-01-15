@@ -36,4 +36,4 @@
 11. ES6 and Promises
 12. Advanced Promises
 13. weather app with promises
-* using axios library
+* installed axios  //npm install axios@0.17.1 --save
